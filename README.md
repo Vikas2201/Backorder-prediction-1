@@ -96,14 +96,40 @@ The main goal is to predict the whether a product comes in backorder or not base
 
   pip install -r requirements.txt
 
-* Setting up the config files
+* Setting up the Controllers files
 
-    Update the values inside the config folder
+    Update the values inside the Controllers folder
 
 * Run the app.py
 
   python app.py
-  
+
+# Usage
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In Development If You Want to contribute? Great!
+
+To fix a bug or enhance an existing module, follow these steps:
+
+* Fork the repo
+
+* Create a new branch
+
+   git checkout -b new-feature
+   
+* Make the appropriate changes in the file
+
+* Commit your changes
+
+     git commit -am "New feature added"
+
+* Push to the branch
+
+* git push origin new-feature
+
+* Create a pull request
+
+
  # Conclusions
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
@@ -115,7 +141,7 @@ We Developed A Product Backorder Predictive Model With The Capability Of Identif
 
  * [@Vikas](https://github.com/Vikas2201)
  * [@Chaudhary Shubham R.](https://github.com/shubhamchau222)
- * [@Bijayalaxmi Kar]
+ * [@Bijayalaxmi Kar](https://github.com/bijayalaxmikar)
  * [@Hitesh Singh]
  * [@Pallapothu Bhargavram]
  * [@Vivek Rathore]
@@ -125,3 +151,10 @@ We Developed A Product Backorder Predictive Model With The Capability Of Identif
 
 Hello Reader if you find any bug please consider raising issue I will address them asap.
 
+# Documentation
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[High Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144744/Backorder.HLD.V1.0.pdf)
+[Low Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144745/Low.Level.Document.pdf)
+[WireFrame](https://github.com/Vikas2201/Backorder-prediction-1/files/7144748/WireFrame_By_Vikas.pdf)
+[Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7144749/Backorder.Prediction.DPR.pdf)
