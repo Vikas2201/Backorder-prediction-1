@@ -1,0 +1,125 @@
+#--------------------testing --------------------------------# 
+2021-09-03/03:08:03		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/03:08:03		Files found in Good Raw dirs  :['Mini_data.csv']
+
+2021-09-03/03:08:04		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/03:13:24		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/03:13:24		Files found in Good Raw dirs  :['Mini_data.csv']
+
+2021-09-03/03:13:26		 Data Inserted Into Table Good_trainingTable
+
+
+
+# `````````````````New test ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# 
+2021-09-03/04:49:04		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/04:56:12		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/04:56:14		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:00:26		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:00:26		Files found in Good Raw dirs  :[]
+
+2021-09-03/16:00:26		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:00:26		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:00:27		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:06:15		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:06:15		Files found in Good Raw dirs  :[]
+
+2021-09-03/16:06:15		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:06:15		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:06:16		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:09:39		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:09:39		Files found in Good Raw dirs  :[]
+
+2021-09-03/16:09:39		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:09:39		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:09:40		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:18:21		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:18:21		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:18:23		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:18:23		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:18:24		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:25:14		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:25:14		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:25:14		Exception : could not convert string to float: ''
+
+2021-09-03/16:28:39		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:28:39		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:28:42		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:28:42		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:28:43		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:30:18		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:30:18		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:30:20		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:30:20		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:30:21		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-03/16:49:49		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:49:49		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:49:52		Exception : could not convert string to float: 'NULL'
+
+2021-09-03/16:55:09		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:55:09		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:55:10		Exception : could not convert string to float: ''
+
+2021-09-03/16:57:17		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-03/16:57:17		Files found in Good Raw dirs  :['BackOrder_08012020_120000.csv']
+
+2021-09-03/16:57:20		 Data Inserted Into Table Good_trainingTable
+
+2021-09-03/16:57:20		Entered Into Class : DataBaseOperations > DataImport 
+
+2021-09-03/16:57:20		 Data Imported in to file Training_FileFromDB/InputFile.csv
+
+2021-09-04/23:13:31		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-04/23:13:31		Files found in Good Raw dirs  :['Sample_file4csv.csv']
+
+2021-09-04/23:13:31		Exception Occures in Data Insertion PRocess  ... . 
+
+2021-09-04/23:13:31		Exception list index out of range
+
+2021-09-04/23:13:31		Exception : list index out of range
+
+2021-09-04/23:17:49		Entered Into Class : DataBaseOperations > DataInsertion 
+
+2021-09-04/23:17:49		Files found in Good Raw dirs  :['Sample_file4csv.csv']
+
+2021-09-04/23:17:51		Data Uploaded successfully ....

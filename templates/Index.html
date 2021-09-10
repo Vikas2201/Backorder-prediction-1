@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Back Order Prediction Project</title>
+    <link rel="stylesheet" href="../static/Style1.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+</head>
+<body>
+<section>
+    <div class="side">
+        <img src="{{url_for('static', filename='backorde.jpg')}}" width="350px" height="350px">
+        <h2>Project: Back Order Classification</h2>
+        <h2>Using Machine Learning, Python, Flask And Cassandra</h2>
+
+        <h2>Made By Vikas And its Team Member</h2>
+        <ul>
+            <li>Vikas</li>
+            <li>Chaudhary Shubham R.</li>
+            <li>Bijayalaxmi Kar</li>
+            <li>Hitesh Singh</li>
+            <li>Pallapothu Bhargavram</li>
+            <li>Vivek Rathore</li>
+        </ul>
+    </div>
+    <div class="vl"></div>
+    <div class="main">
+            <h1>Machine Learning App with Flask</h1>
+            <h3>Enter Your Details</h3>
+            <form action="/predict" method="POST">
+
+                <br/>
+                <h3>Enter Sales Quantity For The Prior 1 Month Time Period</h3>
+                <input type="number" step=any class="form-control" id="sales_1_month" name="sales_1_month" required="required">
+                <br/>
+
+                <br/>
+                <h3>Enter Sales Quantity For The Prior 3 Month Time Period</h3>
+                <input type="number" step=any class="form-control" id="sales_3_month" name="sales_3_month" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Sales Quantity For The Prior 6 Month Time Period</h3>
+                <input type="number" step=any class="form-control" id="sales_6_month" name="sales_6_month" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Sales Quantity For The Prior 9 Month Time Period</h3>
+                <input type="number" step=any class="form-control" id="sales_9_month" name="sales_9_month" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Forecast Sales For The Next 3 Months</h3>
+                <input type="number" step=any class="form-control" id="forecast_3_month" name="forecast_3_month" required="required">
+                <br/>
+
+
+                <br>
+                <h3>Enter Forecast Sales For The Next 6 Months</h3>
+                <input type="number" step=any class="form-control" id="forecast_6_month" name="forecast_6_month" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Forecast Sales For The Next 9 Months</h3>
+                <input type="number" step=any class="form-control" id="forecast_9_month" name="forecast_9_month" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Source Performance For Prior 6 Month Period</h3>
+                <input type="number" step=any class="form-control" id="perf_6_month_avg" name="perf_6_month_avg" required="required">
+                <br/>
+
+                <br>
+                <h3>Enter Source Performance For Prior 9 Month Period</h3>
+                <input type="number" step=any class="form-control" id="perf_9_month_avg" name="perf_9_month_avg" required="required">
+                <br/>
+
+                <input type="submit" class="btn-info" value="Predict">
+            </form>
+            <footer class="button"><p>Created by VIKAS © 2021</p></footer>
+    </div>
+</section>
+</body>
+</html>

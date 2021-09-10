@@ -1,0 +1,234 @@
+
+2021-09-03/15:54:56		Training data Validation Process is started..
+
+2021-09-03/15:54:56		Exception  : [Errno 2] No such file or directory: 'Training_Batch_Files/Mini_data.csv'
+
+2021-09-03/16:00:22		Training data Validation Process is started..
+
+2021-09-03/16:00:22		Training Validation Process is completed ....
+
+2021-09-03/16:00:22		Database Operation  is Starting ....
+
+2021-09-03/16:00:26		Good Training Table Created Successfully....
+
+2021-09-03/16:00:26		 Inserting Good Data to the Table ....
+
+2021-09-03/16:00:26		Database Insertion is Completed ....
+
+2021-09-03/16:00:26		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:00:26		Extracting the Good data  from Database....
+
+2021-09-03/16:00:27		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:06:14		Training data Validation Process is started..
+
+2021-09-03/16:06:14		Training Validation Process is completed ....
+
+2021-09-03/16:06:14		Database Operation  is Starting ....
+
+2021-09-03/16:06:15		Good Training Table Created Successfully....
+
+2021-09-03/16:06:15		 Inserting Good Data to the Table ....
+
+2021-09-03/16:06:15		Database Insertion is Completed ....
+
+2021-09-03/16:06:15		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:06:15		Extracting the Good data  from Database....
+
+2021-09-03/16:06:16		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:09:38		
+
+
+
+2021-09-03/16:09:38		Training data Validation Process is started..
+
+2021-09-03/16:09:38		Connecting with database..
+
+2021-09-03/16:09:38		Training Validation Process is completed ....
+
+2021-09-03/16:09:38		Database Operation  is Starting ....
+
+2021-09-03/16:09:39		Good Training Table Created Successfully....
+
+2021-09-03/16:09:39		 Inserting Good Data to the Table ....
+
+2021-09-03/16:09:39		Database Insertion is Completed ....
+
+2021-09-03/16:09:39		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:09:39		Extracting the Good data  from Database....
+
+2021-09-03/16:09:40		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:18:19		
+
+
+
+2021-09-03/16:18:19		Training data Validation Process is started..
+
+2021-09-03/16:18:19		Connecting with database..
+
+2021-09-03/16:18:19		Training Validation Process is completed ....
+
+2021-09-03/16:18:19		Database Operation  is Starting ....
+
+2021-09-03/16:18:21		Good Training Table Created Successfully....
+
+2021-09-03/16:18:21		 Inserting Good Data to the Table ....
+
+2021-09-03/16:18:23		Database Insertion is Completed ....
+
+2021-09-03/16:18:23		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:18:23		Extracting the Good data  from Database....
+
+2021-09-03/16:18:24		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:25:12		
+
+
+
+2021-09-03/16:25:12		Training data Validation Process is started..
+
+2021-09-03/16:25:12		Connecting with database..
+
+2021-09-03/16:25:12		Training Validation Process is completed ....
+
+2021-09-03/16:25:12		Database Operation  is Starting ....
+
+2021-09-03/16:25:14		Good Training Table Created Successfully....
+
+2021-09-03/16:25:14		 Inserting Good Data to the Table ....
+
+2021-09-03/16:25:14		Exception  : I/O operation on closed file.
+
+2021-09-03/16:28:37		
+
+
+
+2021-09-03/16:28:37		Training data Validation Process is started..
+
+2021-09-03/16:28:37		Connecting with database..
+
+2021-09-03/16:28:37		Training Validation Process is completed ....
+
+2021-09-03/16:28:37		Database Operation  is Starting ....
+
+2021-09-03/16:28:39		Good Training Table Created Successfully....
+
+2021-09-03/16:28:39		 Inserting Good Data to the Table ....
+
+2021-09-03/16:28:42		Database Insertion is Completed ....
+
+2021-09-03/16:28:42		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:28:42		Extracting the Good data  from Database....
+
+2021-09-03/16:28:43		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:30:17		
+
+
+
+2021-09-03/16:30:17		Training data Validation Process is started..
+
+2021-09-03/16:30:17		Connecting with database..
+
+2021-09-03/16:30:17		Training Validation Process is completed ....
+
+2021-09-03/16:30:17		Database Operation  is Starting ....
+
+2021-09-03/16:30:18		Good Training Table Created Successfully....
+
+2021-09-03/16:30:18		 Inserting Good Data to the Table ....
+
+2021-09-03/16:30:20		Database Insertion is Completed ....
+
+2021-09-03/16:30:20		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:30:20		Extracting the Good data  from Database....
+
+2021-09-03/16:30:21		Data Extraction is completed stored in Inputcsv.csv ....
+
+2021-09-03/16:49:47		Replacing Missing Value by NULL 
+
+2021-09-03/16:49:47		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2021-09-03/16:49:47		
+
+
+
+2021-09-03/16:49:47		Training data Validation Process is started..
+
+2021-09-03/16:49:47		Connecting with database..
+
+2021-09-03/16:49:47		Training Validation Process is completed ....
+
+2021-09-03/16:49:47		Database Operation  is Starting ....
+
+2021-09-03/16:49:49		Good Training Table Created Successfully....
+
+2021-09-03/16:49:49		 Inserting Good Data to the Table ....
+
+2021-09-03/16:49:52		Exception  : I/O operation on closed file.
+
+2021-09-03/16:55:07		Replacing Missing Value by NULL 
+
+2021-09-03/16:55:07		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2021-09-03/16:55:07		
+
+
+
+2021-09-03/16:55:07		Training data Validation Process is started..
+
+2021-09-03/16:55:07		Connecting with database..
+
+2021-09-03/16:55:07		Training Validation Process is completed ....
+
+2021-09-03/16:55:07		Database Operation  is Starting ....
+
+2021-09-03/16:55:09		Good Training Table Created Successfully....
+
+2021-09-03/16:55:09		 Inserting Good Data to the Table ....
+
+2021-09-03/16:55:10		Exception  : I/O operation on closed file.
+
+2021-09-03/16:57:16		Replacing Missing Value by NULL 
+
+2021-09-03/16:57:16		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2021-09-03/16:57:16		
+
+
+
+2021-09-03/16:57:16		Training data Validation Process is started..
+
+2021-09-03/16:57:16		Connecting with database..
+
+2021-09-03/16:57:16		Training Validation Process is completed ....
+
+2021-09-03/16:57:16		Database Operation  is Starting ....
+
+2021-09-03/16:57:17		Good Training Table Created Successfully....
+
+2021-09-03/16:57:17		 Inserting Good Data to the Table ....
+
+2021-09-03/16:57:20		Database Insertion is Completed ....
+
+2021-09-03/16:57:20		Existing Good_raw dir deleted bad data send to archieve..
+
+2021-09-03/16:57:20		Extracting the Good data  from Database....
+
+2021-09-03/16:57:20		Data Extraction is completed stored in Inputcsv.csv ....
+
+
+#----------------------------------test --------------------------#
+2021-09-03/23:27:03		Replacing Missing Value by NULL 
+
+2021-09-03/23:27:04		 BackOrder_08012020_120000.csv: File Transformed successfully!!
+
+2021-09-03/23:27:20		 BackOrder_10012020_157000.csv: File Transformed successfully!!

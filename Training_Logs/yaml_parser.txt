@@ -1,0 +1,170 @@
+
+2021-09-03/15:28:23		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:28:23		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:28:23		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:28:23		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:42:59		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:42:59		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:42:59		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:42:59		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:45:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:45:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:45:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:45:55		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:54:56		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:54:56		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/15:54:56		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:54:56		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:00:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:00:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:00:22		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:00:22		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:06:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:06:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:06:14		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:06:14		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:09:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:09:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:09:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:09:38		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:18:19		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:18:19		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:18:19		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:18:19		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:25:12		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:25:12		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:25:12		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:25:12		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:28:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:28:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:28:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:28:37		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:30:17		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:30:17		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:30:17		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:30:17		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:49:47		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:49:47		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:49:47		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:49:47		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:55:07		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:55:07		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:55:07		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:55:07		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:57:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:57:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/16:57:16		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:57:16		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/23:26:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/23:26:46		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-03/23:26:46		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/23:26:46		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-04/23:13:28		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:13:28		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-04/23:13:28		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:13:28		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-04/23:17:48		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:17:48		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]
+
+2021-09-04/23:17:48		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:17:48		File Parsed SuccessFully.. 
+ 											  [{'Database_name': 'Backorder_Prediction', 'keys_': {'path_to_zip': 'secure-connect-backorder-prediction.zip', 'client_id': 'hKMohroqWAmBKCQPOkBJLEYD', 'client_seck': 'atz6gqOz-_msHkq6eyY7LkieDZ5y.288m27M9mFN7lzqo3+0UwYGmfTQH8DfQYcA.reKZTY3DTuE740_L.5_hf2242wPSKKZrYAIZtFiKKb1kxA_DXh2qXHQ_DUWbDqD', 'role': 'Admin_User'}, 'Good_training_tables_info': {'table_name': 'Good_trainingTable', 'keyspace_name': '"Good_training_data"', 'purpose': 'to store Good validated data'}}]

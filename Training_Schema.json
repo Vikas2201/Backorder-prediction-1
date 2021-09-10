@@ -1,0 +1,31 @@
+{	
+    "SampleFileName": "BackOrder_08012020_120000.csv",
+	"LengthOfDateStampInFile": 8,
+	"LengthOfTimeStampInFile": 6,
+	"NumberofColumns" : 23 ,     
+	"ColName": {
+                "sku" : "Integer" ,
+                "national_inv" : "float" , 
+                "lead_time" : "float" , 
+                "in_transit_qty" : "float" , 
+                "forecast_3_month" : "float", 
+                "forecast_6_month" : "float", 
+                "forecast_9_month" : "float", 
+                "sales_1_month" : "float", 
+                "sales_3_month" : "float",
+                "sales_6_month"  : "float", 
+                "sales_9_month": "float", 
+                "min_bank" : "float" , 
+                "potential_issue" : "object", 
+                "pieces_past_due" :   "float" , 
+                "perf_6_month_avg"  : "float" , 
+                "perf_12_month_avg" : "float" , 
+                "local_bo_qty": "float" , 
+                "deck_risk": "object" ,
+                "oe_constraint": "object", 
+                "ppap_risk": "object", 
+                "stop_auto_buy": "object", 
+                "rev_stop": "object", 
+                "went_on_backorder": "object"
+	}
+}

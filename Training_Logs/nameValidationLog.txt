@@ -1,0 +1,26 @@
+
+2021-09-03/15:54:56		Error Occures while validating FileName [Errno 2] No such file or directory: 'Training_Batch_Files/Mini_data.csv'
+
+2021-09-03/16:00:22		Invalid File Name!! File moved to Bad Raw Folder :: Mini_data.csv
+
+2021-09-03/16:06:14		Invalid File Name!! File moved to Bad Raw Folder :: Mini_data.csv
+
+2021-09-03/16:09:38		Invalid File Name!! File moved to Bad Raw Folder :: Mini_data.csv
+
+2021-09-03/16:18:19		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:25:12		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:28:37		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:30:17		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:49:47		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:55:07		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/16:57:16		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/23:26:46		Valid File name!! File moved to GoodRaw Folder :: BackOrder_08012020_120000.csv
+
+2021-09-03/23:26:46		Valid File name!! File moved to GoodRaw Folder :: BackOrder_10012020_157000.csv

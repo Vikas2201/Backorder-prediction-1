@@ -1,0 +1,11 @@
+,columns,missing values count
+0,forecast_3_month,1
+1,forecast_6_month,1
+2,forecast_9_month,1
+3,sales_1_month,1
+4,sales_3_month,1
+5,sales_6_month,1
+6,sales_9_month,1
+7,perf_6_month_avg,1
+8,perf_12_month_avg,1
+9,went_on_backorder,1

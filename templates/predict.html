@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction</title>
+    <link rel="stylesheet" href="../static/Style2.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+</head>
+<body>
+    <section>
+        <div class="side">
+            <img src="{{url_for('static', filename='backorde.jpg')}}" width="350px" height="350px">
+            <h2>Project: Back Order Classification Project</h2>
+            <h2>Using Machine Learning, Python, Flask And Cassandra</h2>
+
+            <h2>Team Members Name : </h2>
+            <ul>
+                <li>Vikas</li>
+                <li>Bijayalaxmi kar</li>
+                <li>Shubham R Chaudhari</li>
+                <li>Hitesh Singh</li>
+                <li>Vivek Rathore</li>
+                <li>Pallapothu bhargavram</li>
+            </ul>
+        </div>
+        <div class="vl"></div>
+        <div class="main results">
+            <h1>Machine Learning Prediction</h1>
+            {% if prediction == 1%}
+            <h2 style="color:green; font-size: x-large;">Yes,Your Product In Back-Order</h2>
+            <span style='font-size:100px;'>&#128542;</span>
+            {% elif prediction == 0%}
+            <h2 style="color:yellow; font-size: x-large;">No,Your Product Not In Back-Order</h2>
+            <span style='font-size:100px;'>&#128526;</span>
+
+            {% endif %}
+        </div>
+    </section>
+</body>
+</html>

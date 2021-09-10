@@ -1,0 +1,53 @@
+html{
+     height: auto;
+}
+body {
+     margin:0;
+     padding:0;
+     font-family: sans-serif;
+     background: linear-gradient(#141e30, #243b55);
+}
+label,h2,h1,ul{
+color: white;
+}
+.vl{
+color: white;
+border-left:2px solid #310069;
+margin-left:50px;
+height:100vh
+}
+.main{
+color: white;
+margin-left:100px
+}
+.main h1{
+color: white;
+font-size:40px;
+padding-bottom:15px
+}
+.btn-info{
+color:#310069;
+height:50px;
+width:100px;
+border-radius:8px
+}
+*{
+box-sizing:border-box;
+padding:0;
+margin:0;
+}
+section{
+display:flex;
+flex-wrap:nowrap;
+padding:50px 10px
+}
+section h4{
+font-size:12px;
+font-weight:400;
+padding-top:5px
+}
+section h2{
+font-size:17px;
+font-weight:700;
+padding-top:15px
+}

@@ -1,0 +1,570 @@
+2021-08-25/23:00:56		entered into Db Connector
+2021-08-25/23:02:31		entered into Db Connector
+2021-08-25/23:09:50		entered into class : DBconnector
+2021-08-25/23:16:08		entered into class : DBconnector
+2021-08-25/23:16:08		[Errno 22] Invalid argument: '<</PATH/TO/>>secure-connect-backorder-prediction.zip'
+2021-08-25/23:17:01		entered into class : DBconnector
+2021-08-25/23:17:01		Exception : [Errno 22] Invalid argument: '<</PATH/TO/>>secure-connect-backorder-prediction.zip'
+2021-08-25/23:23:55		entered into class : DBconnector
+2021-08-25/23:24:11		 DataBase Connected successfully....!
+2021-08-25/23:36:23		entered into class : DBconnector
+2021-08-25/23:36:37		 DataBase Connected successfully....!
+2021-08-26/00:52:21		 Entered into : DBconnectionInfo-YamlParser..
+2021-08-26/00:52:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-26/00:57:05		 Entered into : DBconnectionInfo-YamlParser..
+2021-08-26/00:57:05		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-26/00:58:39		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-26/00:58:39		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-26/01:07:17		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-26/01:07:17		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-26/01:07:17		entered into class : DBconnector
+
+2021-08-26/01:07:34		 DataBase Connected successfully....!
+
+2021-08-27/14:52:15		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/14:52:15		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/14:52:15		entered into class : DBconnector
+
+2021-08-27/14:52:43		 DataBase Connected successfully....!
+
+# new test
+
+2021-08-27/15:31:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/15:31:29		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/15:31:29		entered into class : DBconnector
+
+2021-08-27/15:32:01		Exception : ('Unable to connect to any servers', {'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:eb699756-3356-4ceb-8a62-e9e41a46e635': OperationTimedOut('errors=None, last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:ebbab2f0-230d-4f90-a099-1668fad31bd6': OperationTimedOut('errors=None, last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:2a7e4202-8761-4266-ba5a-2d622c8f0526': OperationTimedOut('errors=None, last_host=None')})
+
+2021-08-27/15:32:45		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/15:32:45		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/15:32:45		entered into class : DBconnector
+
+2021-08-27/15:33:12		 DataBase Connected successfully....!
+
+
+# new_test_through = Root Directory
+
+
+
+2021-08-27/15:34:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/15:34:55		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/15:34:55		entered into class : DBconnector
+
+2021-08-27/15:35:32		 DataBase Connected successfully....!
+
+2021-08-27/15:36:32		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/15:36:32		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/15:36:32		entered into class : DBconnector
+
+2021-08-27/15:36:52		 DataBase Connected successfully....!
+
+
+
+#########################  New test through (DataBaseHandler_module /dir : root dir ) ##################################
+
+
+2021-08-27/15:58:10		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/15:58:10		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/15:58:10		entered into class : DBconnector
+
+2021-08-27/15:58:27		 DataBase Connected successfully....!
+
+2021-08-27/16:41:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/16:41:24		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/16:41:24		entered into class : DBconnector
+
+2021-08-27/16:41:36		 DataBase Connected successfully....!
+
+2021-08-27/16:42:08		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/16:42:08		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/16:42:08		entered into class : DBconnector
+
+2021-08-27/16:42:08		Exception : name 'cluster' is not defined
+
+2021-08-27/16:42:43		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/16:42:43		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/16:42:43		entered into class : DBconnector
+
+2021-08-27/16:42:54		 DataBase Connected successfully....!
+
+2021-08-27/17:09:54		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/17:09:54		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/17:09:54		entered into class : DBconnector
+
+2021-08-27/17:10:08		 DataBase Connected successfully....!
+
+2021-08-27/17:11:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/17:11:29		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/17:11:29		entered into class : DBconnector
+
+2021-08-27/17:11:44		 DataBase Connected successfully....!
+
+2021-08-27/17:12:53		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/17:12:53		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/17:12:53		entered into class : DBconnector
+
+2021-08-27/17:13:07		 DataBase Connected successfully....!
+
+2021-08-27/17:14:04		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/17:14:04		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/17:14:04		entered into class : DBconnector
+
+2021-08-27/17:14:16		 DataBase Connected successfully....!
+
+2021-08-27/17:16:06		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/17:16:06		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/17:16:06		entered into class : DBconnector
+
+2021-08-27/17:16:20		 DataBase Connected successfully....!
+
+
+#######################new test #################################################
+
+
+
+2021-08-27/19:51:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-08-27/19:51:44		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-08-27/19:51:44		entered into class : DBconnector
+
+2021-08-27/19:51:56		 DataBase Connected successfully....!
+
+2021-09-01/14:02:29		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-01/14:02:29		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-01/14:02:29		entered into class : DBconnector
+
+2021-09-01/14:02:47		 DataBase Connected successfully....!
+
+2021-09-01/14:05:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-01/14:05:44		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-01/14:05:44		entered into class : DBconnector
+
+2021-09-01/14:05:59		 DataBase Connected successfully....!
+
+2021-09-01/14:23:35		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-01/14:23:35		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-01/14:23:35		entered into class : DBconnector
+
+2021-09-01/14:23:52		 DataBase Connected successfully....!
+
+2021-09-03/02:48:35		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/02:48:35		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/02:48:35		entered into class : DBconnector
+
+2021-09-03/02:49:02		Exception : ('Unable to connect to any servers', {'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fa2a52d2-007f-4732-bb1d-f83927967338': OperationTimedOut('errors=None, last_host=None',), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fdd527d8-416b-4a98-89d6-c9a052711fed': OperationTimedOut('errors=None, last_host=None',), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:23487020-27ba-41f9-9cf7-e3b27889184b': OperationTimedOut('errors=None, last_host=None',)})
+
+2021-09-03/02:51:24		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/02:51:24		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/02:51:24		entered into class : DBconnector
+
+2021-09-03/02:51:43		 DataBase Connected successfully....!
+
+2021-09-03/02:55:23		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/02:55:23		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/02:55:23		entered into class : DBconnector
+
+2021-09-03/02:56:02		 DataBase Connected successfully....!
+
+2021-09-03/02:59:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/02:59:37		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/02:59:37		entered into class : DBconnector
+
+2021-09-03/02:59:54		 DataBase Connected successfully....!
+
+
+# -----------------------------------testing ---------------------------------------------#
+
+2021-09-03/03:07:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/03:07:38		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/03:07:38		entered into class : DBconnector
+
+2021-09-03/03:08:00		 DataBase Connected successfully....!
+
+2021-09-03/03:13:07		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/03:13:07		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/03:13:07		entered into class : DBconnector
+
+2021-09-03/03:13:23		 DataBase Connected successfully....!
+
+
+# `````````````````New test ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~# 
+
+2021-09-03/04:48:41		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/04:48:41		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/04:48:41		entered into class : DBconnector
+
+2021-09-03/04:49:03		 DataBase Connected successfully....!
+
+2021-09-03/04:55:50		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/04:55:50		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/04:55:50		entered into class : DBconnector
+
+2021-09-03/04:56:12		 DataBase Connected successfully....!
+
+2021-09-03/15:28:08		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:28:08		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:28:08		entered into class : DBconnector
+
+2021-09-03/15:28:23		 DataBase Connected successfully....!
+
+2021-09-03/15:42:36		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:42:36		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:42:36		entered into class : DBconnector
+
+2021-09-03/15:42:59		 DataBase Connected successfully....!
+
+2021-09-03/15:45:38		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:45:38		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:45:38		entered into class : DBconnector
+
+2021-09-03/15:45:55		 DataBase Connected successfully....!
+
+2021-09-03/15:47:42		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:47:42		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:47:42		entered into class : DBconnector
+
+2021-09-03/15:48:16		Exception : ('Unable to connect to any servers', {'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:23487020-27ba-41f9-9cf7-e3b27889184b': OperationTimedOut('errors=None, last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fa2a52d2-007f-4732-bb1d-f83927967338': OperationTimedOut('errors=None, last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fdd527d8-416b-4a98-89d6-c9a052711fed': OperationTimedOut('errors=None, last_host=None')})
+
+
+
+# ---------------------------------------------------
+
+2021-09-03/15:50:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:50:37		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:50:37		entered into class : DBconnector
+
+2021-09-03/15:51:02		Exception : ('Unable to connect to any servers', {'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fa2a52d2-007f-4732-bb1d-f83927967338': OperationTimedOut('errors=None, last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:fdd527d8-416b-4a98-89d6-c9a052711fed': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None'), 'fee9b492-b712-4557-9b49-12a4b209c555-us-east-1.db.astra.datastax.com:29042:23487020-27ba-41f9-9cf7-e3b27889184b': OperationTimedOut('errors=Timed out creating connection (5 seconds), last_host=None')})
+
+2021-09-03/15:53:49		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:53:49		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:53:49		entered into class : DBconnector
+
+2021-09-03/15:54:04		 DataBase Connected successfully....!
+
+2021-09-03/15:54:34		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/15:54:34		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/15:54:34		entered into class : DBconnector
+
+2021-09-03/15:54:56		 DataBase Connected successfully....!
+
+2021-09-03/16:00:04		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:00:04		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:00:04		entered into class : DBconnector
+
+2021-09-03/16:00:22		 DataBase Connected successfully....!
+
+2021-09-03/16:05:57		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:05:57		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:05:57		entered into class : DBconnector
+
+2021-09-03/16:06:14		 DataBase Connected successfully....!
+
+2021-09-03/16:09:21		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:09:21		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:09:21		entered into class : DBconnector
+
+2021-09-03/16:09:38		 DataBase Connected successfully....!
+
+2021-09-03/16:17:53		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:17:53		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:17:53		entered into class : DBconnector
+
+2021-09-03/16:18:19		 DataBase Connected successfully....!
+
+2021-09-03/16:24:44		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:24:44		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:24:44		entered into class : DBconnector
+
+2021-09-03/16:25:12		 DataBase Connected successfully....!
+
+2021-09-03/16:28:21		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:28:21		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:28:21		entered into class : DBconnector
+
+2021-09-03/16:28:37		 DataBase Connected successfully....!
+
+2021-09-03/16:30:01		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:30:01		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:30:01		entered into class : DBconnector
+
+2021-09-03/16:30:17		 DataBase Connected successfully....!
+
+2021-09-03/16:49:26		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:49:26		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:49:26		entered into class : DBconnector
+
+2021-09-03/16:49:47		 DataBase Connected successfully....!
+
+2021-09-03/16:54:47		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:54:47		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:54:47		entered into class : DBconnector
+
+2021-09-03/16:55:07		 DataBase Connected successfully....!
+
+2021-09-03/16:56:55		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/16:56:55		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/16:56:55		entered into class : DBconnector
+
+2021-09-03/16:57:16		 DataBase Connected successfully....!
+
+2021-09-03/23:26:23		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-03/23:26:23		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-03/23:26:23		entered into class : DBconnector
+
+2021-09-03/23:26:46		 DataBase Connected successfully....!
+
+2021-09-04/23:13:17		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:13:17		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-04/23:13:17		entered into class : DBconnector
+
+2021-09-04/23:13:28		 DataBase Connected successfully....!
+
+2021-09-04/23:17:37		 Entered into : DBconnectionInfo-YamlParser..
+
+2021-09-04/23:17:37		Retrived DatabaseInfo :  
+ 	 	 	 	 	 	 	 DatabaseName : Backorder_Prediction  
+ 	 	 	 	 	 	 	 client_id : hKMohroqWAmBKCQPOkBJLEYD 
+  	 	 	 	 	 	 	 path_to_zip : secure-connect-backorder-prediction.zip 
+
+2021-09-04/23:17:37		entered into class : DBconnector
+
+2021-09-04/23:17:48		 DataBase Connected successfully....!
