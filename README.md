@@ -65,13 +65,20 @@ The main goal is to predict the whether a product comes in backorder or not base
 
 * Home Page 
 
-![image](https://user-images.githubusercontent.com/76476273/132872549-65c3ee52-5160-4ceb-ab06-4ed8940d9910.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76476273/132872549-65c3ee52-5160-4ceb-ab06-4ed8940d9910.png" width='400px'>
+</p>
 
-![image](https://user-images.githubusercontent.com/76476273/132872622-e02ff9bb-b2e6-458f-a74b-ce02cb448d76.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76476273/132872622-e02ff9bb-b2e6-458f-a74b-ce02cb448d76.png" width='400px'>
+</p>
 
 * Predict Page
 
-![image](https://user-images.githubusercontent.com/76476273/132872651-805d24e3-5e38-46a5-b10a-631ab59b888c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/76476273/132872651-805d24e3-5e38-46a5-b10a-631ab59b888c.png" width='400px'>
+</p>
+
 
  
  # Deployment Links
@@ -85,24 +92,25 @@ The main goal is to predict the whether a product comes in backorder or not base
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * Clone the project
-
+```bash
   git clone https://github.com/Vikas2201/Backorder-prediction-1
-
+```
 * Go to the project directory
-
+```bash
   cd Backorder-prediction-1
-  
+ ```
 * Install dependencies
-
+```bash
   pip install -r requirements.txt
-
+```
 * Setting up the Controllers files
-
+```bash
     Update the values inside the Controllers folder
-
+```
 * Run the app.py
-
+```bash
   python app.py
+```
 
 # Usage
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -114,19 +122,19 @@ To fix a bug or enhance an existing module, follow these steps:
 * Fork the repo
 
 * Create a new branch
-
+```bash
    git checkout -b new-feature
-   
+```
 * Make the appropriate changes in the file
 
 * Commit your changes
-
+```bash
      git commit -am "New feature added"
-
+```
 * Push to the branch
-
-* git push origin new-feature
-
+```bash
+      git push origin new-feature
+```
 * Create a pull request
 
 
@@ -144,7 +152,7 @@ We Developed A Product Backorder Predictive Model With The Capability Of Identif
  * [@Bijayalaxmi Kar](https://github.com/bijayalaxmikar)
  * [@Hitesh Singh]
  * [@Pallapothu Bhargavram]
- * [@Vivek Rathore]
+ * [@Vivek Rathore](https://github.com/VIVEKRATHORE360)
 
 # Help Me Improve
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -155,6 +163,9 @@ Hello Reader if you find any bug please consider raising issue I will address th
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [High Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144744/Backorder.HLD.V1.0.pdf)
+
 [Low Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144745/Low.Level.Document.pdf)
+
 [WireFrame](https://github.com/Vikas2201/Backorder-prediction-1/files/7144748/WireFrame_By_Vikas.pdf)
+
 [Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7144749/Backorder.Prediction.DPR.pdf)
