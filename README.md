@@ -59,10 +59,69 @@ The main goal is to predict the whether a product comes in backorder or not base
  * pickle is used for saving model
  * XgBoost is used for XgBoostClassifier Implementation.
  * Nearmiss Imbalance is used for handling Imbalance Data.
+
+# User InterFace 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Home Page 
+
+![image](https://user-images.githubusercontent.com/76476273/132872549-65c3ee52-5160-4ceb-ab06-4ed8940d9910.png)
+
+![image](https://user-images.githubusercontent.com/76476273/132872622-e02ff9bb-b2e6-458f-a74b-ce02cb448d76.png)
+
+* Predict Page
+
+![image](https://user-images.githubusercontent.com/76476273/132872651-805d24e3-5e38-46a5-b10a-631ab59b888c.png)
+
  
+ # Deployment Links
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+ Heroku Link : 
+ 
+ AWS link : 
+ 
+ # Run Locally
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* Clone the project
+
+  git clone https://github.com/Vikas2201/Backorder-prediction-1
+
+* Go to the project directory
+
+  cd Backorder-prediction-1
+  
+* Install dependencies
+
+  pip install -r requirements.txt
+
+* Setting up the config files
+
+    Update the values inside the config folder
+
+* Run the app.py
+
+  python app.py
+  
  # Conclusions
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 We Developed A Product Backorder Predictive Model With The Capability Of Identifying Items To Be Backordered Using Machine Learning Models. The Proposed Approach Accept Input Data Was Pre-Processed By Way Of Missing Values Imputation, Non-Numeric To Numeric Feature Conversion And Normalization, And Split Into Training And Test Set. The Training Set Is Passed Into A Data Balancing Module To Ensure Equal Class Distribution And Avoid Biasness In Learning Model Decisions. The Imbalanced Training Data Were Subjected Sampling As We Concurrently Fed The Data Into Sampling Techniques Fed Into ML Models To Predict Product Backorders. The Predictive Models Were Validated On Test Data And Their Performances Were Evaluated. The Evaluation Of The Result Obtained Showed By Precision, Recall , AUC Score , Accuracy And F1-Score.
 
+
+# Teams Members Name
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ * [@Vikas](https://github.com/Vikas2201)
+ * [@Chaudhary Shubham R.](https://github.com/shubhamchau222)
+ * [@Bijayalaxmi Kar]
+ * [@Hitesh Singh]
+ * [@Pallapothu Bhargavram]
+ * [@Vivek Rathore]
+
+# Help Me Improve
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Hello Reader if you find any bug please consider raising issue I will address them asap.
 
