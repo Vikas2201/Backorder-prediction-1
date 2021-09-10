@@ -80,8 +80,14 @@ The main goal is to predict the whether a product comes in backorder or not base
 </p>
 
 
- 
- # Deployment Links
+# Back Order Prediction Project Video 
+
+
+
+https://user-images.githubusercontent.com/76476273/132907109-6652c535-4921-4451-87cc-cfe353b2a3cb.mp4
+
+
+# Deployment Links
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
  Heroku Link : 
@@ -244,10 +250,13 @@ Hello Reader if you find any bug please consider raising issue I will address th
 # Documentation
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[High Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144744/Backorder.HLD.V1.0.pdf)
+[High Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145911/Backorder.HLD.V1.0.pdf)
 
-[Low Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7144745/Low.Level.Document.pdf)
+[Low Level Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145912/Low.Level.Document.pdf)
 
 [WireFrame](https://github.com/Vikas2201/Backorder-prediction-1/files/7144748/WireFrame_By_Vikas.pdf)
 
-[Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7144749/Backorder.Prediction.DPR.pdf)
+[Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7145926/DPR.pdf)
+
+[Architecture Documentation][Architecture.pdf](https://github.com/Vikas2201/Backorder-prediction-1/files/7145934/Architecture.pdf)
+
