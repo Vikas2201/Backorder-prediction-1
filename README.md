@@ -139,7 +139,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 # Directory Tree
 
-
+```bash
 └── Backorder-Prediction
     ├── application_logging
     │   └── logging.py        
@@ -218,8 +218,8 @@ To fix a bug or enhance an existing module, follow these steps:
     ├── requierements.txt 
     ├── Training_Schema.json
     └── secure-connect-backorder-prediction.zip
-    
-    
+  ```
+  
  # Conclusions
  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
