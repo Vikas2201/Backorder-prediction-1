@@ -66,17 +66,17 @@ The main goal is to predict the whether a product comes in backorder or not base
 * Home Page 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76476273/132872549-65c3ee52-5160-4ceb-ab06-4ed8940d9910.png" width='400px'>
+  <img src="https://user-images.githubusercontent.com/76476273/132872549-65c3ee52-5160-4ceb-ab06-4ed8940d9910.png" width='600px'>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76476273/132872622-e02ff9bb-b2e6-458f-a74b-ce02cb448d76.png" width='400px'>
+  <img src="https://user-images.githubusercontent.com/76476273/132872622-e02ff9bb-b2e6-458f-a74b-ce02cb448d76.png" width='600px'>
 </p>
 
 * Predict Page
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76476273/132872651-805d24e3-5e38-46a5-b10a-631ab59b888c.png" width='400px'>
+  <img src="https://user-images.githubusercontent.com/76476273/132872651-805d24e3-5e38-46a5-b10a-631ab59b888c.png" width='600px'>
 </p>
 
 
