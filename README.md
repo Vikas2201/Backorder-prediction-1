@@ -258,5 +258,5 @@ Hello Reader if you find any bug please consider raising issue I will address th
 
 [Detail Project Report](https://github.com/Vikas2201/Backorder-prediction-1/files/7145926/DPR.pdf)
 
-[Architecture Documentation][Architecture.pdf](https://github.com/Vikas2201/Backorder-prediction-1/files/7145934/Architecture.pdf)
+[Architecture Documentation](https://github.com/Vikas2201/Backorder-prediction-1/files/7145934/Architecture.pdf)
 
