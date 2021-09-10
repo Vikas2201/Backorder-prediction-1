@@ -1,0 +1,82 @@
+
+(Ineuron-Internship-BackOrder-Prediction  )
+
+
+└── Backorder-Prediction
+    ├── application_logging
+    │   └── logging.py        
+    ├── Controllers
+    │   └── DBconnection_info.yaml
+    ├── Data_Information 
+    │   └── Null_Values.csv
+    ├── data_ingestion
+    │   ├── __pycache__
+    │   └── data_loader.py
+    ├── data_preprocessing
+    │   ├── __pycache__
+    │   └── preprocessing.py
+    ├── EDA 
+    │   ├── EDA-part1.ipynb
+    │   └── EDA-part2.ipynb
+    ├── model 
+    │   └── Random Forest
+    │       └── Random Forest.sav 
+    ├── model_finder
+    │   ├── __pycache__
+    │   └── Model.py
+    ├── Prediction_logs 
+    │   └── predictionlog.txt 
+    ├── Prediction_Output_File 
+    │   └── Predictions.csv 
+    ├── ReplaceMissingwithNull
+    │   ├── __pycache__
+    │   ├── __init__.py
+    │   └── transformer.py
+    ├── Save_Models
+    │   ├── __pycache__
+    │   └── save_methods.py
+    ├── static 
+    │   ├── backorder.jpg
+    │   ├── Style1.css
+    │   └── Style2.css 
+    ├── Templates
+    │   ├── index.html 
+    │   └── predict.html 
+    ├── Tools
+    │   ├── __pycache__
+    │   ├── __init__.py
+    │   ├── DBconnector.py
+    │   ├── training_logFilescreater.py
+    │   └── YamlParser.py
+    ├── Traning_batch_Files
+    │   └── BackOrder_08012020_120000.csv
+    ├── Training_Database_operations 
+    │   ├── __init__.py
+    │   ├── __pycache__
+    │   └── Database_handler.py
+    ├── Traininig_dataValidation 
+    │   ├── __pycache__
+    │   └── RawtrainingValidation.py 
+    ├── Training_FilesfromDB
+    │   └── InputFile.csv 
+    ├── Training_Logs
+    │   ├── columnValidationLog.txt
+    │   ├── DataBaseConnectionLog.txt
+    │   ├── Datapreprocessing_logs.txt
+    │   ├── GeneralLog.txt
+    │   ├── TmissingValuesInColumn.txt
+    │   ├── ModelTrainingLog.txt
+    │   ├── nameValidationLog.txt
+    │   ├── TrainingDatabseInfo.txt
+    │   ├── TrainingMainLog.txt
+    │   ├── valuesfromSchemaValidationLog.txt
+    │   └── yaml_parser.txt
+    ├── Training_Raw_Files_Validated
+    │   └── BackOrder_08012020_120000.csv
+    ├── training_val_linkage.py
+    ├── training_file.py
+    ├── app.py
+    ├── prediction.py
+    ├── requierements.txt 
+    ├── Training_Schema.json
+    └── secure-connect-backorder-prediction.zip
