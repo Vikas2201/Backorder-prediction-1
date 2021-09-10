@@ -151,7 +151,7 @@ We Developed A Product Backorder Predictive Model With The Capability Of Identif
  * [@Chaudhary Shubham R.](https://github.com/shubhamchau222)
  * [@Bijayalaxmi Kar](https://github.com/bijayalaxmikar)
  * [@Hitesh Singh](https://github.com/hitesh777)
- * [@Pallapothu Bhargavram]
+ * [@Pallapothu Bhargavram](https://github.com/bhargavtejasw)
  * [@Vivek Rathore](https://github.com/VIVEKRATHORE360)
 
 # Help Me Improve
