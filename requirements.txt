@@ -34,4 +34,3 @@ cassandra-driver==3.25.0
 imbalanced-learn == 0.8.0
 json5
 scipy==1.5.4
-zipp
