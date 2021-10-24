@@ -13,7 +13,7 @@ app = Flask(__name__) # initializing a flask app
 @app.route('/',methods=['GET'])  # route to display the home page
 @cross_origin()
 def homePage():
-    return render_template("index.html")
+    return render_template("templates/index.html")
 
 
 @app.route('/train' , methods=['GET'])
@@ -21,7 +21,7 @@ def homePage():
 def training():
     train_obj = train.training()
     train_obj.trainingModel()
-    return render_template("index.html")
+    return render_template("templates/index.html")
 
 @app.route('/predict',methods=['POST','GET']) # route to show the predictions in a web UI
 @cross_origin()
@@ -54,7 +54,7 @@ def index():
             if(prediction["Prediction"][0] == 'No'):
                 return render_template('predict.html', prediction = 0)
             else:
-                return render_template('predict.html', prediction= 1)
+                return render_template('teamplates/predict.html', prediction= 1)
             log_writer.log(file_object , "Prediction process Completed...")
             file_object.close()
 
@@ -63,7 +63,7 @@ def index():
             return 'something is wrong'
 
     else:
-        return render_template('index.html')
+        return render_template('templates/index.html')
 
 
 if __name__ == "__main__":
