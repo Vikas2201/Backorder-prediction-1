@@ -16,6 +16,7 @@ joblib==0.14.1
 jsonschema==3.2.0
 kiwisolver==1.1.0
 kneed==0.5.1
+gevent==1.2.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 more-itertools==8.1.0
